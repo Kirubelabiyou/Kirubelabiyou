@@ -1,8 +1,8 @@
-## Hi there, I'm Roshan! 👋
+## Hi there, I'm Kiru! 👋
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img alt="Hello I'm Roshan" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2b89ff&center=false&vCenter=true&width=470&lines=3rd+Year+Computer+Science+Student;ML+Research+Assistant+@+RTL;AI+Program+Manager+@+CCUBED;Android+%26+Full-Stack+Developer;Building+AI-Powered+Solutions">
+<img alt="Hello I'm Kiru" align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=2b89ff&center=false&vCenter=true&width=470&lines=3rd+Year+Finance+Student;Investment+Associate+@+Front+Row+Ventures">
 
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=Roshan1299&label=Profile%20views&color=187eff&style=flat) -->
@@ -15,9 +15,8 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-🎓 Computer Science Student @ University of Alberta | Expected Graduation: 2027  
-🤖 ML Research Assistant | Passionate about Building Intelligent & Scalable Systems  
-🚀 Currently developing [DevSwipe](https://github.com/Roshan1299/DevSwipe) - A revolutionary developer networking platform
+🎓 Finance Student @ University of Alberta | Expected Graduation: 2027  
+💲 FRV Investment Associate | Passionate about The Startup Ecosystem
 
 <!-- <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Roshan1299&theme=dark_lover&margin-w=5&margin-h=15&row=1&column=7&title=-AchieveSSSRank,-LongTimeUser,-NewUser,MultiLanguage,Commit,Followers,Stars,Repositories,Issues,PullRequest,experience" alt="hexed-AAL1X" width="84%"/>
@@ -28,7 +27,7 @@
 <p align="center">
   <p align="center">
   <a href="https://roshanb-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/roshan-banisetti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
   <a href="mailto:banisettirosh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail"></a>
   <!-- <a href="https://github.com/Roshan1299"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> -->
   <!-- <a href="https://open.spotify.com/user/36v5s33rwlgiqtki7b9b51kl6"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify"></a> -->
